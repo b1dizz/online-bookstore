@@ -26,7 +26,7 @@ ________________________________________________________________________________
 - Deve ser possível excluir um livro.
 ________________________________________________________________________________
 
-t is an API developed for an online bookstore. 
+It is an API developed for an online bookstore. 
 The system must allow the user to create, view, edit and delete books.
 
 _____________________________________________________________________________________
